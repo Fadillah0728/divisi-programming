@@ -1,3 +1,4 @@
 1. belajar programming menggunakan php
 2. mempelajari pengkodingan menggunakan python
-3. shbsbbwhbykj
+3. menggunakan xampp
+4. mencari tutorial di youtube 
